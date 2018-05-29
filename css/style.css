@@ -128,7 +128,7 @@ figure {
 }
 .fh5co-cover .btn {
   padding: 1em 5em;
-  opacity: .9;
+  /*opacity: .5;*/
 }
 .fh5co-cover.fh5co-cover_2 {
   height: 600px;
@@ -1385,6 +1385,21 @@ figure {
   height: 100%;
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
+}
+.glyphicon-star {
+  color:gold;
+}
+span.glyphicon-calendar {
+  padding-left:20px;
+}
+.fa-facebook-official {
+  color:#3b5998;;
+}
+.fa-twitter-square {
+  color:#00aced;
+}
+.fa-google-plus {
+  color: #dd4b39;    
 }
 
 /*# sourceMappingURL=style.css.map */
